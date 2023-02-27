@@ -1,0 +1,18 @@
+.dias { font-weight: bold;
+    font-size: xx-large;
+   line-height: 40px;
+} 
+.horarios { font-style: italic;
+} 
+.dia1 { color: rgb(5, 70, 70);
+} 
+.dia2 { color: rgb(13, 122, 31);
+} 
+.dia3 { color: rgb(98, 167, 19);
+} 
+.dia4 { color: rgb(19, 145, 167);
+}
+.dia5 { color: rgb(94, 85, 148);
+}
+.dia6 { color: rgb(191, 130, 199);
+}
